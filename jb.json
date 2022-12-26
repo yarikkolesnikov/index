@@ -1,0 +1,10 @@
+{
+    "users":[
+        {
+            "id": 2,
+            "name": "Dima",
+            "sirname": "Zav",
+            "balance": 2003
+    }
+    ]
+}
