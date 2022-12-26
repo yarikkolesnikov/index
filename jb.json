@@ -1,10 +1,21 @@
-{
-    "users":[
+{ 
+    "users": [
+        {
+            "id": 1,
+            "name": "Yaroslav",
+            "sirname": "Kolesnykov",
+            "balance": 1500
+        },
+        {
+            "id":3,
+            "name":"Zahar",
+            "sirname":"Abakumenko"
+        },
         {
             "id": 2,
             "name": "Dima",
             "sirname": "Zav",
             "balance": 2003
-    }
+        }
     ]
 }
